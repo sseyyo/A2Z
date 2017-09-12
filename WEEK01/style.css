@@ -1,0 +1,21 @@
+  @import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+  body {
+    background-color: pink;
+    font-family: "Biryani";
+    font-size: 20px;
+  }
+
+body{
+    margin: 5% 10%;
+  }
+
+  input {
+    width:35%;
+    box-sizing: border-box;
+    border-style: solid;
+  }
+
+#submit {
+  /*color: red;*/
+}
